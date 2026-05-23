@@ -208,7 +208,7 @@ Goal:
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/riyasumra">
+<a href="https://linkedin.com/in/riya-sumra">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
