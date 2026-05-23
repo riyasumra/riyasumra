@@ -30,7 +30,7 @@ TECH_STACK = {
    "MongoDB",
    "Git",
    "Docker",
-   "Linux",
+   "Scala",
    "System Design"
 
 };
@@ -119,7 +119,7 @@ Learning scalable systems & building better software 🚀
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,spring,mongodb,mysql,docker,linux,git" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,spring,mongodb,mysql,docker,scala,git" />
 
 </p>
 
